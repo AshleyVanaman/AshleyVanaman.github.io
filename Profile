@@ -1,1 +1,168 @@
-# AshleyVanaman.github.io
+<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+
+<div class="container">
+  <div class="header">
+    <div class="full-name">
+      <span class="first-name">Ashley</span> 
+      <span class="last-name">Vanaman</span>
+    </div>
+    <div class="contact-info">
+      <span class="email">Email: </span>
+      <span class="email-val">ashley3792@icloud.com</span>
+      <span class="separator"></span>
+      <span class="phone">Phone: </span>
+      <span class="phone-val">812-614-3792</span>
+    </div>
+    
+    <div class="about">
+      <span class="position">About Me:</span>
+      <span class="desc">
+        I am a Computer Science major with a concentration in Network Security. I am a hard worker, good listener, and a quick learner. As much as I love to code, my art and music keep me in touch with my inner human.
+      </span>
+    </div>
+  </div>
+   <div class="details">
+    <div class="section">
+      <div class="section__title">Experience</div>
+      <div class="section__list">
+        <div class="section__list-item">
+          <div class="left">
+            <div class="name">Lowe's RDC</div>
+            <div class="addr">North Vernon, IN</div>
+            <div class="duration">Dec 2022 - Present</div>
+          </div>
+          <div class="right">
+            <div class="name">Warehouse  Distro Associate</div>
+            <div class="desc">I drive a Walkie Rider to distrubute product from the door it's recieved from to the door it needs to be shipped from. </div>
+          </div>
+        </div>
+                <div class="section__list-item">
+          <div class="left">
+            <div class="name">Walmart</div>
+            <div class="addr">North Vernon, IN</div>
+            <div class="duration">Dec 2020 - July 2023</div>
+          </div>
+          <div class="right">
+            <div class="name"> Garden Center Team Lead</div>
+            <div class="desc">I took care of plants, kept up with customers' needs, and took care of plant shipments.</div>
+          </div>
+        </div>
+                <div class="section__list-item">
+          <div class="left">
+            <div class="name">Marco's Pizza</div>
+            <div class="addr">North Vernon, IN</div>
+            <div class="duration">Mar 2019 - Nov 2019</div>
+          </div>
+          <div class="right">
+            <div class="name">Manager</div>
+            <div class="desc">I made pizzas, kept up with customers' needs, made employee schedules, and did inventory shift.</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="section">
+      <div class="section__title">Education</div>
+      <div class="section__list">
+        <div class="section__list-item">
+          <div class="left">
+            <div class="name">Ball State University</div>
+            <div class="addr">Muncie, IN</div>
+            <div class="duration">Graduating May 2024</div>
+          </div>
+          <div class="right">
+            <div class="name">Bachelors Degree</div>
+            <div class="desc">Computer Science</div>
+          </div>
+        </div>
+        <div class="section__list-item">
+          <div class="left">
+            <div class="name">South Decatur High School</div>
+            <div class="addr">Greensburg, IN</div>
+            <div class="duration">Graduated May 2019</div>
+          </div>
+          <div class="right">
+            <div class="name">High School Diploma</div>
+            <div class="desc"> General Studies</div>
+          </div>
+        </div>
+
+      </div>
+      
+  </div>
+     <div class="section">
+      <div class="section__title">Projects</div> 
+       <div class="section__list">
+         <div class="section__list-item">
+           <div class="name">"Shoot Da Can"</div>
+           <div class="text">This was a project that I developed with another team member for my game design class. In the game, you have to "shoot da can" and keep it from hitting the air. The player also needs to keep from hitting the birds in the sky because it will take time away from "da can." The player gets cash after "da can" has hit the ground and they can use the cash for upgrades.</div>
+         </div>
+         
+         <div class="section__list-item">
+                    <div class="name">Ship Search</div>
+           <div class="text">This was a group project. We were given a large data set of ships and their specifications (name, size, ship type, coordinates, etc) and the program we made had to be able to bring up the ships by typing in peices of data and being able to use filters to narrow down the search.<a href="/login"></a>
+           </div>
+         </div>
+       </div>
+    </div>
+     <div class="section">
+       <div class="section__title">Skills</div>
+       <div class="skills">
+         <div class="skills__item">
+           <div class="left"><div class="name">
+             Javascript
+             </div></div>
+           <div class="right">
+                          <input  id="ck1" type="checkbox" checked/>
+
+             <label for="ck1"></label>
+                          <input id="ck2" type="checkbox" checked/>
+
+              <label for="ck2"></label>
+                         <input id="ck3" type="checkbox" checked/>
+
+              <label for="ck3"></label>
+                           <input id="ck4" type="checkbox" checked/>
+            <label for="ck4"></label>
+                          <input id="ck5" type="checkbox" />
+              <label for="ck5"></label>
+
+           </div>
+         </div>
+         
+       </div>
+       <div class="skills__item">
+           <div class="left"><div class="name">
+             C</div></div>
+           <div class="right">
+                          <input  id="ck1" type="checkbox" checked/>
+
+             <label for="ck1"></label>
+                          <input id="ck2" type="checkbox" checked/>
+
+              <label for="ck2"></label>
+                         <input id="ck3" type="checkbox" checked/>
+
+              <label for="ck3"></label>
+                           <input id="ck4" type="checkbox" checked/>
+            <label for="ck4"></label>
+                          <input id="ck5" type="checkbox" />
+              <label for="ck5"></label>
+
+           </div>
+         </div>
+         
+       </div>
+     <div class="section">
+     <div class="section__title">
+       Interests/Hobbies
+       </div>
+       <div class="section__list">
+         <div class="section__list-item">
+                  Art, Guitar, Gaming, Exploring, Photography, Baking
+          </div>
+       </div>
+     </div>
+     </div>
+  </div>
+</div>
